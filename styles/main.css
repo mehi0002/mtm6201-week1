@@ -69,6 +69,8 @@ dt{
 
 img{
     width: 400px;
+    border:2px solid #222222;
+    box-shadow: 1px 2px #666666;
 }
 
 .container{
